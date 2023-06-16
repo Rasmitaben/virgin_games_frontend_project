@@ -1,0 +1,55 @@
+2023-06-14 15:06:421 INFO  HomePage :29 - Verifying homepage Url.
+2023-06-14 16:06:337 INFO  HomePage :29 - Verifying homepage Url
+2023-06-15 18:06:07 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (c394300e9d99672657747f663a4f300b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 18:06:226 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (c394300e9d99672657747f663a4f300b)] -> link text: Slingo]
+2023-06-15 18:06:418 INFO  HomePage :44 - Click on Blox Bingo Image Proxy element for: DefaultElementLocator 'By.xpath: //img[@alt='Blox Bingo']'
+2023-06-15 18:06:261 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (6229d8d8e0839ef2b2c721fe9ede8b0a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 18:06:373 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (6229d8d8e0839ef2b2c721fe9ede8b0a)] -> link text: Slingo]
+2023-06-15 18:06:283 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (c5f5ad1316f208b9271837a39fc0713c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 18:06:376 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (c5f5ad1316f208b9271837a39fc0713c)] -> link text: Slingo]
+2023-06-15 18:06:497 INFO  HomePage :45 - Click on Blox Bingo Image Proxy element for: DefaultElementLocator 'By.xpath: //img[@alt='Blox Bingo']'
+2023-06-15 18:06:146 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (ed96610acb73ac2a6cbc4131533945d2)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 18:06:241 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (ed96610acb73ac2a6cbc4131533945d2)] -> link text: Online Bingo]
+2023-06-15 18:06:338 INFO  HomePage :45 - Click on Blox Bingo Image Proxy element for: DefaultElementLocator 'By.xpath: //img[@alt='Blox Bingo']'
+2023-06-15 18:06:591 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (686afb028426dacc106d29d15f557df5)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 18:06:684 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (686afb028426dacc106d29d15f557df5)] -> link text: Online Bingo]
+2023-06-15 18:06:818 INFO  HomePage :45 - Click on Blox Bingo Image Proxy element for: DefaultElementLocator 'By.xpath: //img[@alt='Blox Bingo']'
+2023-06-15 18:06:576 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (9682f23c806c5fca0d8ff8de3608eb56)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 18:06:671 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (9682f23c806c5fca0d8ff8de3608eb56)] -> link text: Online Bingo]
+2023-06-15 18:06:567 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (4bda94da6a6a1166c8fa1a493145b3c5)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 18:06:654 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (4bda94da6a6a1166c8fa1a493145b3c5)] -> link text: Online Bingo]
+2023-06-15 18:06:749 INFO  HomePage :50 - Verifying online bongo text Text
+2023-06-15 23:06:879 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (f2c256857abc29f4f14b9231e2cc9671)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:167 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (f2c256857abc29f4f14b9231e2cc9671)] -> link text: Online Bingo]
+2023-06-15 23:06:697 INFO  HomePage :50 - Verifying online bongo text Text
+2023-06-15 23:06:931 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (842d5df2376f4dc4c04d388403f72b0e)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:165 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (842d5df2376f4dc4c04d388403f72b0e)] -> link text: Online Bingo]
+2023-06-15 23:06:474 INFO  HomePage :50 - Verifying online bongo text Text
+2023-06-15 23:06:219 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (a2a6d6f2557d5ce78a373faa4373a9e8)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:433 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (a2a6d6f2557d5ce78a373faa4373a9e8)] -> link text: Online Bingo]
+2023-06-15 23:06:763 INFO  HomePage :50 - Verifying online bongo text Text
+2023-06-15 23:06:83 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (fca1a63743a5c21a27800494dbd3050d)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:351 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (fca1a63743a5c21a27800494dbd3050d)] -> link text: Online Bingo]
+2023-06-15 23:06:715 INFO  HomePage :50 - Verifying online bongo text Text
+2023-06-16 14:06:490 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (381c6732adab38a9245f55816f219e24)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 14:06:706 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (381c6732adab38a9245f55816f219e24)] -> link text: Online Bingo]
+2023-06-16 14:06:925 INFO  HomePage :46 - Verifying online bongo text Text
+2023-06-16 14:06:534 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (d1c71ba377c43c59a43a4094dadb2db7)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 14:06:770 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (d1c71ba377c43c59a43a4094dadb2db7)] -> link text: Online Bingo]
+2023-06-16 14:06:962 INFO  HomePage :46 - Verifying online bongo text Text
+2023-06-16 14:06:859 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (8178b11a22ba24e8c0d1e2590909168a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 14:06:119 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (8178b11a22ba24e8c0d1e2590909168a)] -> link text: Online Bingo]
+2023-06-16 14:06:331 INFO  HomePage :46 - Verifying online bongo text Text
+2023-06-16 14:06:356 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (1a0163f860042e21b669cd2b813f637c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 14:06:601 INFO  HomePage :40 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (1a0163f860042e21b669cd2b813f637c)] -> link text: Online Bingo]
+2023-06-16 14:06:768 INFO  HomePage :46 - Verifying online bongo text Text
+2023-06-16 14:06:590 INFO  HomePage :36 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (896763049352919e7e0ce72640efd3ff)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 14:06:410 INFO  HomePage :32 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (dcf42cfc1f223bb19481d31dd9dc845a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 14:06:647 INFO  HomePage :36 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (dcf42cfc1f223bb19481d31dd9dc845a)] -> link text: Online Bingo]
+2023-06-16 14:06:817 INFO  HomePage :42 - Verifying online bongo text Text
+2023-06-16 14:06:410 INFO  HomePage :32 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (7dbef29ec35da8d4333c13a8d48841f6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 14:06:708 INFO  HomePage :36 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (7dbef29ec35da8d4333c13a8d48841f6)] -> link text: Online Bingo]
+2023-06-16 14:06:530 INFO  HomePage :42 - Verifying online bongo text Text
+2023-06-16 14:06:36 INFO  HomePage :32 - Click on accept cookies[[ChromeDriver: chrome on WINDOWS (589e06791f7c39245a0bb08eab4e93a9)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 14:06:338 INFO  HomePage :36 - Click on slingo tab [[ChromeDriver: chrome on WINDOWS (589e06791f7c39245a0bb08eab4e93a9)] -> link text: Online Bingo]
+2023-06-16 14:06:210 INFO  HomePage :42 - Verifying online bongo text Text
